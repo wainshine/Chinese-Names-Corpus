@@ -2,26 +2,26 @@
 某业余项目的副产品。不定期更新。只删词，不加词。
 可用于中文分词、人名识别。
 
-- 中文常见人名（Chinese_Names_Corpus）
+### 中文常见人名（Chinese_Names_Corpus）
 120万。从亿级人名语料中提取。删除了罕见姓氏、和带生僻字的人名。随机删除了部分名人姓名（一点点小私心）。清洗后仍存有少量badcase。
 
-- 中文古代人名（Ancient_Names_Corpus）
+### 中文古代人名（Ancient_Names_Corpus）
 25万。多个人名词典汇总。删除了罕见姓氏、和带生僻字的人名。清洗后仍存有少量badcase。
 
-- 日文人名（Japanese_Names_Corpus）
+### 日文人名（Japanese_Names_Corpus）
 18万。从维基百科中提取。删除了罕见姓氏、和带生僻字的人名。清洗后仍存有少量badcase，尤其是日文地名。
 
-- 翻译人名（English_Cn_Name_Corpus）
+### 翻译人名（English_Cn_Name_Corpus）
 48万。多个人名词典汇总。删除了翻译人名常用字之外的人名。混有少量西化中文人名，如“李伯恩”。清洗后仍存有少量badcase，尤其是英文地名。
 
-- 中文姓氏（Chinese_Family_Name）
+### 中文姓氏（Chinese_Family_Name）
 1千。从亿级人名语料中提取。删除了罕见姓氏，复姓只保留了“欧阳”。
 
-- 中文称呼（Chinese_Relationship）
+### 中文称呼（Chinese_Relationship）
 5千。称呼词根。多个人名词典汇总。删除了部分带贬义的称呼。
 18万。中文称呼。多个人名词典汇总。清洗后仍存有大量badcase。
 
-- 成语词典（ChengYu_Corpus）
+### 成语词典（ChengYu_Corpus）
 5万。多个成语词典汇总。清洗后仍存有少量badcase。
 
 ---
