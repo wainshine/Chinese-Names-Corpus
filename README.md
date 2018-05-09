@@ -3,27 +3,27 @@
 
 可用于中文分词、人名识别。
 
-<strong>中文常见人名（Chinese_Names_Corpus）</strong>
+<strong>中文常见人名（Chinese_Names_Corpus）</strong></br>
 120万。从亿级人名语料中提取。删除了罕见姓氏、和带生僻字的人名。随机删除了部分名人姓名（一点点小私心）。清洗后仍存有少量badcase。
 
-<strong>中文古代人名（Ancient_Names_Corpus）</strong>
+<strong>中文古代人名（Ancient_Names_Corpus）</strong></br>
 25万。多个人名词典汇总。删除了罕见姓氏、和带生僻字的人名。清洗后仍存有少量badcase。
 
-<strong>日文人名（Japanese_Names_Corpus）</strong>
-18万。从维基百科中提取。删除了罕见姓氏、和带生僻字的人名。清洗后仍存有少量badcase。
+<strong>日文人名（Japanese_Names_Corpus）</strong></br>
+18万。从维基百科中提取。删除了罕见姓氏、和带生僻字的人名。清洗后仍存有少量badcase。</br>
 数据清洗过程相见，“[日本人名数据清洗分享](https://github.com/wainshine/Chinese-Names-Corpus/issues/4)”。
 
-<strong>翻译人名（English_Cn_Name_Corpus）</strong>
+<strong>翻译人名（English_Cn_Name_Corpus）</strong></br>
 48万。多个人名词典汇总。删除了翻译人名常用字之外的人名。混有少量西化中文人名，如“李伯恩”。清洗后仍存有少量badcase，尤其是英文地名。
 
-<strong>中文姓氏（Chinese_Family_Name）</strong>
+<strong>中文姓氏（Chinese_Family_Name）</strong></br>
 1千。从亿级人名语料中提取。删除了罕见姓氏，复姓只保留了“欧阳”。
 
-<strong>中文称呼（Chinese_Relationship）</strong>
-5千。称呼词根。多个人名词典汇总。删除了部分带贬义的称呼。
+<strong>中文称呼（Chinese_Relationship）</strong></br>
+5千。称呼词根。多个人名词典汇总。删除了部分带贬义的称呼。</br>
 18万。中文称呼。多个人名词典汇总。清洗后仍存有大量badcase。
 
-<strong>成语词典（ChengYu_Corpus）</strong>
+<strong>成语词典（ChengYu_Corpus）</strong></br>
 5万。多个成语词典汇总。清洗后仍存有少量badcase。
 
 ---
