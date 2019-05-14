@@ -3,13 +3,13 @@
 可用于中文分词、人名识别。
 
 <strong>中文常见人名（Chinese_Names_Corpus）</strong></br>
-120万。从亿级人名语料中提取。删除了罕见姓氏、和带生僻字的人名。随机删除了部分名人姓名（一点点小私心）。清洗后仍存有少量badcase。
+120万。从亿级人名语料中提取。删除了罕见姓氏、和带生僻字的人名。随机删除了部分名人姓名（一点点小私心）。
 
 <strong>中文古代人名（Ancient_Names_Corpus）</strong></br>
-25万。多个人名词典汇总。删除了罕见姓氏、和带生僻字的人名。清洗后仍存有少量badcase。
+25万。多个人名词典汇总。删除了罕见姓氏、和带生僻字的人名。
 
 <strong>日文人名（Japanese_Names_Corpus）</strong></br>
-18万。从维基百科中提取。删除了罕见姓氏、和带生僻字的人名。清洗后仍存有少量badcase。</br>
+18万。从维基百科中提取。删除了罕见姓氏、和带生僻字的人名。</br>
 数据清洗过程相见，“[日本人名数据清洗分享](https://github.com/wainshine/Chinese-Names-Corpus/issues/4)”。
 
 <strong>翻译人名（English_Cn_Name_Corpus）</strong></br>
@@ -23,7 +23,14 @@
 18万。中文称呼。多个人名词典汇总。清洗后仍存有大量badcase。
 
 <strong>成语词典（ChengYu_Corpus）</strong></br>
-5万。多个成语词典汇总。清洗后仍存有少量badcase。
+5万。多个成语词典汇总。
+
+---
+
+<strong>请勿提交涉政issue：</strong>
+
+惹不起呀，谢谢～</br>
+语料中还存有的，会在后续的更新中逐步删除掉。</br>
 
 ---
 
@@ -47,4 +54,4 @@
 
 @萌名 整理
 
-2019.04.15
+2019.05.14
