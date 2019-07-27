@@ -15,6 +15,7 @@
 
 新增性别标注。
 
+---
 
 <strong>中文古代人名（Ancient_Names_Corpus）</strong>
 
@@ -22,6 +23,7 @@
 
 多个人名词典汇总。删除了罕见姓氏、和带生僻字的人名。
 
+---
 
 <strong>日文人名（Japanese_Names_Corpus）</strong>
 
@@ -31,6 +33,7 @@
 
 数据清洗过程相见，“[日本人名数据清洗分享](https://github.com/wainshine/Chinese-Names-Corpus/issues/4)”。
 
+---
 
 <strong>翻译人名（English_Cn_Name_Corpus）</strong>
 
@@ -40,6 +43,7 @@
 
 清洗后仍存有少量badcase，尤其是英文地名。
 
+---
 
 <strong>中文姓氏（Chinese_Family_Name）</strong>
 
@@ -47,6 +51,7 @@
 
 从亿级人名语料中提取。删除了罕见姓氏。
 
+---
 
 <strong>中文称呼（Chinese_Relationship）</strong>
 
@@ -59,6 +64,7 @@
 
 多个人名词典汇总。清洗后仍存有大量badcase。
 
+---
 
 <strong>成语词典（ChengYu_Corpus）</strong>
 
