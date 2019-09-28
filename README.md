@@ -7,6 +7,10 @@
 
 ---
 
+<strong>请勿将本库打包上传某SDN挣积分，已上传的请配合删除，谢谢！</strong>
+
+---
+
 <strong>中文常见人名（Chinese_Names_Corpus）</strong>
 
 120万。
