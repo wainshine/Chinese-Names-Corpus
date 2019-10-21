@@ -14,9 +14,7 @@
 <strong>中文常见人名（Chinese_Names_Corpus）</strong>
 
 数据大小：120万。
-
 语料来源：从亿级人名语料中提取。
-
 数据清洗：已清洗，但仍存有少量badcase。
 
 新增性别标注。
@@ -26,9 +24,7 @@
 <strong>中文古代人名（Ancient_Names_Corpus）</strong>
 
 数据大小：25万。
-
 语料来源：多个人名词典汇总。
-
 数据清洗：已清洗。
 
 ---
@@ -36,9 +32,7 @@
 <strong>中文姓氏（Chinese_Family_Name）</strong>
 
 数据大小：1千。
-
 语料来源：从亿级人名语料中提取。
-
 数据清洗：已清洗。
 
 ---
@@ -46,9 +40,7 @@
 <strong>中文称呼（Chinese_Relationship）</strong>
 
 数据大小：5千，称呼词根；18万，中文称呼。
-
 语料来源：多个人名词典汇总。
-
 数据清洗：已清洗，但存有大量badcase。
 
 ---
@@ -57,9 +49,7 @@
 <strong>翻译人名（English_Cn_Name_Corpus）</strong>
 
 数据大小：48万。
-
 语料来源：多个人名词典汇总。
-
 数据清洗：已清洗，但仍存有少量badcase，以地名居多。
 
 本语料的人名识别由网友 “[ltccss](https://github.com/ltccss)” 友情提供。
@@ -70,9 +60,7 @@
 <strong>日文人名（Japanese_Names_Corpus）</strong>
 
 数据大小：18万。
-
 数据来源：从维基百科中提取。
-
 数据清洗：已清洗，但仍存有少量badcase。
 
 数据清洗过程详见：“[日本人名数据清洗分享](https://github.com/wainshine/Chinese-Names-Corpus/issues/4)”。
@@ -83,9 +71,7 @@
 <strong>成语词典（ChengYu_Corpus）</strong>
 
 数据大小：5万。
-
 语料来源：多个成语词典汇总。
-
 数据清洗：已清洗。
 
 ---
