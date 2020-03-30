@@ -99,6 +99,12 @@
 
 ---
 
+## Stargazers over time
+
+[![Stargazers over time](https://starchart.cc/wainshine/Chinese-Names-Corpus.svg)](https://starchart.cc/wainshine/Chinese-Names-Corpus)
+
+---
+
 <strong>更新时间：</strong>
 
 更早的提交，不记得时间了。
